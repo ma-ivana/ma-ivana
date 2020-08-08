@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi! ☮️ 
 
-<!--
-**ma-ivana/ma-ivana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My GitHub follows my coding learning path, contributions to other repositories,
+and experiments in the coding world.
 
-Here are some ideas to get you started:
+##### Always curious, and always learning! 🧐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I've got a nanodegree in Front-End Development:
+**HTML5, CSS, SASS, Vanilla JavaScript, React, Styled-Components**
+* I am learning **Python**
+* I am learning **Full Stack Web with Java**
+* English/Spanish (translator specialized in IT)
+
+##### How to reach me: 📬
+  * Twitter: [ivana_croxcatto](https://twitter.com/ivana_croxcatto)
+  * LinkedIn: [mariaivanacroxcatto](https://www.linkedin.com/in/mariaivanacroxcatto/)
+
+___open to freelance gigs___ ✨
