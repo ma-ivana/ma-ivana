@@ -11,6 +11,7 @@ and experiments in the coding world.
 * I am learning **Full Stack Web with Java & MySQL**
 * I am learning **Node.js with Express, Postman & MongoDB**
 * English/Spanish (translator specialized in IT)
+* I am building **https://mujeres-x-industria.vercel.app/** using React + Styled-Components
 
 ##### How to reach me: 📬
   * Twitter: [ivana_croxcatto](https://twitter.com/ivana_croxcatto)
