@@ -7,8 +7,9 @@ and experiments in the coding world.
 
 * I've got a nanodegree in Front-End Development:
 **HTML5, CSS, SASS, Vanilla JavaScript, React, Styled-Components**
-* I am learning **Python**
-* I am learning **Full Stack Web with Java**
+* I am learning **Full Stack with Python**
+* I am learning **Full Stack Web with Java & MySQL**
+* I am learning **Node.js with Express, Postman & MongoDB**
 * English/Spanish (translator specialized in IT)
 
 ##### How to reach me: 📬
