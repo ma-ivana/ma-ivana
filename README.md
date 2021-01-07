@@ -7,9 +7,9 @@ and experiments in the coding world.
 
 * I've got a nanodegree in Front-End Development:
 **HTML5, CSS, SASS, Vanilla JavaScript, React, Styled-Components**
-* I am learning **Full Stack with Python**
-* I am learning **Full Stack Web with Java & MySQL**
-* I am learning **Node.js with Express, Postman & MongoDB**
+* I've got a nanodegree as **Full Stack Web Developer with Python**
+* Some knowledge of **Java & MySQL**
+* Some knowledge of **Node.js with Express, Postman & MongoDB**
 * English/Spanish (translator specialized in IT)
 * I am building **https://mujeres-x-industria.vercel.app/** using React + Styled-Components
 
