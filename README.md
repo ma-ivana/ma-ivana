@@ -10,6 +10,7 @@ and experiments in the coding world.
 * I've got a nanodegree as **Full Stack Web Developer with Python**
 * Some knowledge of **Java & MySQL**
 * Some knowledge of **Node.js with Express, Postman & MongoDB**
+* Studying Data Science & Data Analysis
 * English/Spanish (translator specialized in IT)
 * I am building **https://mujeres-x-industria.vercel.app/** using React + Styled-Components
 
