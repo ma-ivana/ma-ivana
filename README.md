@@ -15,7 +15,6 @@ and experiments in the coding world.
 * I am building **https://mujeres-x-industria.vercel.app/** using React + Styled-Components
 
 ##### How to reach me: 📬
-  * Twitter: [ivana_croxcatto](https://twitter.com/ivana_croxcatto)
   * LinkedIn: [mariaivanacroxcatto](https://www.linkedin.com/in/mariaivanacroxcatto/)
 
 ___open to freelance gigs___ ✨
