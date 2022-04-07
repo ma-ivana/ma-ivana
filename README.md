@@ -10,7 +10,8 @@ and experiments in the coding world.
 * Some knowledge of **Node.js with Express, Postman & MongoDB**
 * Some knowledge of Data Science & Data Analysis
 * English/Spanish (translator specialized in IT - accounts served: Google/Microsoft/Samsung/Unity/Turtle Beach/Pinterest/ZenDesk)
-* Mentor in ADA ITW (frontend study groups, and volunteer professional practices building websites for NGOs)
+* IT Mentor in ADA ITW (frontend study groups, and volunteer professional practices building websites for NGOs)
+* IT Mentor in Argentina Programa
 * Project Leader in Mujeres por la Industria (https://www.mujeresporlaindustria.com.ar/) 
 
 ##### How to reach me: 📬
